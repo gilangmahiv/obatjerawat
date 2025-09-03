@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "obatjerawat.top",
     "description": "",
-    "home_page_url": "https://obatjerawat.top",
-    "feed_url": "https://obatjerawat.top/feed.json",
+    "home_page_url": "https://www.obatjerawat.top",
+    "feed_url": "https://www.obatjerawat.top/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kartini"
     },
     "items": [
         {
-            "id": "https://obatjerawat.top/tes.html",
-            "url": "https://obatjerawat.top/tes.html",
+            "id": "https://www.obatjerawat.top/tes.html",
+            "url": "https://www.obatjerawat.top/tes.html",
             "title": "tes ",
             "summary": "tes aja",
             "content_html": "<p>tes aja</p>",
