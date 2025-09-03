@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>obatjerawat.top</title>
+    <link href="https://obatjerawat.top/feed.xml" rel="self" />
+    <link href="https://obatjerawat.top" />
+    <updated>2025-09-02T18:24:44+07:00</updated>
+    <author>
+        <name>Kartini</name>
+    </author>
+    <id>https://obatjerawat.top</id>
+
+    <entry>
+        <title>tes </title>
+        <author>
+            <name>Kartini</name>
+        </author>
+        <link href="https://obatjerawat.top/tes.html"/>
+        <id>https://obatjerawat.top/tes.html</id>
+
+        <updated>2025-09-02T18:24:44+07:00</updated>
+            <summary>
+                <![CDATA[
+                    tes aja
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>tes aja</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
