@@ -5,23 +5,10 @@
     "home_page_url": "https://www.obatjerawat.top",
     "feed_url": "https://www.obatjerawat.top/feed.json",
     "user_comment": "",
+    "icon": "https://www.obatjerawat.top/media/website/logo.png",
     "author": {
         "name": "Kartini"
     },
     "items": [
-        {
-            "id": "https://www.obatjerawat.top/tes.html",
-            "url": "https://www.obatjerawat.top/tes.html",
-            "title": "tes ",
-            "summary": "tes aja",
-            "content_html": "<p>tes aja</p>",
-            "author": {
-                "name": "Kartini"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-09-02T18:24:44+07:00",
-            "date_modified": "2025-09-02T18:24:44+07:00"
-        }
     ]
 }
